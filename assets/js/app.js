@@ -3,6 +3,14 @@ const nextBtn = document.querySelector('.next-btn');
 const meme = document.getElementById('meme');
 
 const imageCollection = [
+    '1030.png',
+    '1029.png',
+    '1028.png',
+    '1027.png',
+    '1026.png',
+    '1025.png',
+    '1024.png',
+    '1023.png',
     '1022.png',
     '1021.png',
     '1020.png',
